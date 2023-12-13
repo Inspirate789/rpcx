@@ -1,4 +1,4 @@
-module github.com/Inspirate789/rpcx
+module github.com/smallnest/rpcx
 
 go 1.20
 
