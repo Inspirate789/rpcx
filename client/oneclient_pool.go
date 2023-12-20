@@ -3,7 +3,7 @@ package client
 import (
 	"sync/atomic"
 
-	"github.com/smallnest/rpcx/protocol"
+	"github.com/Inspirate789/rpcx/protocol"
 )
 
 // OneClientPool is a oneclient pool with fixed size.

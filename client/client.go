@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/Inspirate789/rpcx/log"
+	"github.com/Inspirate789/rpcx/protocol"
+	"github.com/Inspirate789/rpcx/share"
 	circuit "github.com/rubyist/circuitbreaker"
-	"github.com/smallnest/rpcx/log"
-	"github.com/smallnest/rpcx/protocol"
-	"github.com/smallnest/rpcx/share"
 )
 
 const (

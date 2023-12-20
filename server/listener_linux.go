@@ -8,10 +8,10 @@ import (
 	"runtime"
 	"time"
 
+	"github.com/Inspirate789/rpcx/log"
 	uringnet "github.com/godzie44/go-uring/net"
 	"github.com/godzie44/go-uring/reactor"
 	"github.com/godzie44/go-uring/uring"
-	"github.com/smallnest/rpcx/log"
 )
 
 func init() {
